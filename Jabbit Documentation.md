@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Thanks for purchasing the Jabbit. Here's the full technical documentation for your avatar and associated files
+Thanks for purchasing the Jabbit. Here's the full technical documentation for your avatar and associated files. If you wish to stay up to date with the latest version of this documentation it can be found and read here: https://github.com/EmberBeard/Jabbit-Documentation/tree/main
 
 ## Table of contents
 
