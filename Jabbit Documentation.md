@@ -8,11 +8,11 @@ Thanks for purchasing the Jabbit. Here's the full technical documentation for yo
 
 1. [Introduction](##Introduction)
 
-2. [Blender files](##Blender files)
+2. [Blender files](##Blenderfiles)
 
-3. [Substance Painter files](##Substance Painter files)
+3. [Substance Painter files](##SubstancePainterfiles)
 
-4. [Unity](## Unity)
+4. [Unity](##Unity)
 
 ## Blender files
 
