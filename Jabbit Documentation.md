@@ -65,6 +65,8 @@ Now let's just go and get it all back. Just go to the Ember's Tools panel in the
 
 This only takes about a minute (depending on how powerful your PC is). There's close to 200 animation markers to capture and convert into blendshapes across 4 different armatures. All Armature modifiers will be applied as a separate blenshape and then combined together. I want to add a UI element to show how far through the process it is but for now, if you have blender set to launch with the command line window open, you'll see it capturing each frame one by one. After that's done you'll have every blendshape back.
 
+As such, if you want to mess with the facial blend shapes for Face Tracking usage or mess with how the body deforms - I personally recommend you play with the generator rigs, as this infrastructure will handle the blendshapes (an entire complete face rig is provided as one of the generators). You can choose to ignore this advice though, one advantage you have over me is that your geometry should never change. A big benefit for me on this project with this was that I was still working out what polygons went where
+
 This system also works for the RaveWare and any other blender project you want to use this addon in. You just need a mesh that has at least one armature modifier and some animation markers in the timeline (you can load that from a TXT file in this addon too with the `Import Animation Markers` button )
 
 
