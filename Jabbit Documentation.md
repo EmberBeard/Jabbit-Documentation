@@ -56,6 +56,7 @@ I ***HATE*** blendshapes. Conceptually they are fine and effective in game engin
 All blendshapes for the Jabbit have been generated using rigs instead of sculpted. The face, body, clothing and chest swap shapes, each of them has a unique generator rig with animations attached. In the animation timeline there should be a series of markers that denote what shapes they correlate to. If you were to unhide the generator cateogries, you'll see a set of animation rigs.
 
 Lets prove this out. Select the body mesh for the Jabbit avatar, go to it's Blend Shapes section, hit the drop down arrow and select "`Delete all`". This should obliterate all blendshape data.
+
 ![Alt Text](Images/Blender_Addon_Tutorial1.png)
 
 Now let's just go and get it all back. Just go to the Ember's Tools panel in the side menu and click `Recapture As Shape Keys` at the very top
