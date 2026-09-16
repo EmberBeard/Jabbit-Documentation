@@ -3,7 +3,8 @@
 A sincere and heartfelt thank you to everyone that helped out directly or indirectly along this journey. Without you I wouldn't have made it as far as I did. 🧡
 
 
-In Alphabetical order:
+
+In particular for the more meaningful contributions I'd like to thank directly and in Alphabetical order:
 
 1. Adrian Blackfall/CMDR Endogeny
 
@@ -15,17 +16,22 @@ In Alphabetical order:
 
 5. Cobalt
 
-6. Grodvir
+6. Gallius Strados
 
-7. JessePup
+7. Grodvir
 
-8. Melody
+8. JessePup
 
-9. Mr Charles
+9. Melody
 
-10. Ocelot
+10. Moskari
 
-11. Pinfu
+11. Mr Charles
 
-12. Zimdon
+12. Ocelot
 
+13. Pinfu
+
+14. Royalty
+
+15. Zimdon
