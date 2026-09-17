@@ -1,8 +1,10 @@
 # Jabbit Documentation
 
+
 # Introduction
 
-Thanks for purchasing the Jabbit. Here's the full technical documentation for your avatar and associated files. If you wish to stay up to date with the latest version of this documentation it can be found and read here: https://github.com/EmberBeard/Jabbit-Documentation/tree/main
+Thanks for purchasing the Jabbit. Here's the technical documentation for your avatar and associated files. It is expected ahead of time that you have at least a foundational knowledge of Blender, Substance and Unity for each of the respective sections as this is not a step by step guide to knowing the entire avatar inside and out, it is expected for you to be curious and willing to explore the files yourself. If you wish to stay up to date with the latest version of this documentation it can be found and read here: https://github.com/EmberBeard/Jabbit-Documentation/
+
 
 ## Table of contents
 
@@ -16,3 +18,7 @@ Thanks for purchasing the Jabbit. Here's the full technical documentation for yo
 
 5. [Credits](Jabbit_Docs5_Credits.md)
 
+
+# Support
+
+If you get seriously stuck or have any major burning questions, please refer to The Jabbit Warren support discord for guidance and advice!
